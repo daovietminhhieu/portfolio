@@ -21,36 +21,19 @@ function App(){
 return(
 
 <>
-
-<Background />
-<ScrollProgress/>
-
-
-<Navbar/>
-
-<main>
-<Hero/>
-
-
-<About/>
-
-
-<Skills/>
-
-
-<Experience/>
-
-
-<Projects/>
-
-
-<Contact/>
-</main>
-
-<Footer/>
-
-<Cursor/>
-
+  <Background />
+  <ScrollProgress/>
+  <Navbar/>
+  <main>
+  <Hero/>
+  <About/>
+  <Skills/>
+  <Experience/>
+  <Projects/>
+  <Contact/>
+  </main>
+  <Footer/>
+  <Cursor/>
 </>
 
 

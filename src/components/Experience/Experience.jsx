@@ -39,13 +39,8 @@ const Experience = () => {
             id="experience"
             className="experience"
         >
-
-
             <div className="container">
-
-
                 <div className="experience-title">
-
                     <p>
                         Experience
                     </p>
