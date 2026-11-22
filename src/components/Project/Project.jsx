@@ -4,7 +4,7 @@ import project1 from "./images/project1.jpg";
 import project2 from "./images/project2.jpg";
 import project3 from "./images/project3.jpg";
 import project4 from "./images/project4.png";
-
+import project5 from "./images/project5.png";
 import {
     FaGithub,
     FaExternalLinkAlt
@@ -26,6 +26,15 @@ const projects = [
         ],
         github: "https://github.com/hieuhp132/tatto/tree/main",
         demo: "https://tatto-a9vw.onrender.com/#community"
+    },{
+        title: "Multiple designs projects",
+        image: project5,
+        desc:
+            "Some of my design projects.",
+        tech: [
+       
+        ],
+        demo: "http://103.75.184.235:5175/"
     },
     {
         title: "Ant-Tech Asia - Headhunting System",
