@@ -27,12 +27,11 @@ const projects = [
         github: "https://github.com/hieuhp132/tatto/tree/main",
         demo: "https://tatto-a9vw.onrender.com/#community"
     },{
-        title: "Multiple designs projects",
+        title: "Multiple template designs projects",
         image: project5,
         desc:
-            "Some of my design projects.",
+            ".",
         tech: [
-       
         ],
         demo: "http://103.75.184.235:5175/"
     },
