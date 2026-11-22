@@ -27,7 +27,7 @@ const projects = [
         github: "https://github.com/hieuhp132/tatto/tree/main",
         demo: "https://tatto-a9vw.onrender.com/#community"
     },{
-        title: "Multiple template designs projects",
+        title: "Multiple templates",
         image: project5,
         desc:
             ".",
